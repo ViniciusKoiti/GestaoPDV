@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">GestaoPDV</string>
+
+    <!-- Login -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+
+    <!-- Mensagens -->
+    <string name="login_success">Login realizado com sucesso!</string>
+    <string name="login_error">Erro ao fazer login</string>
+    <string name="network_error">Erro de conexão</string>
+    <string name="invalid_credentials">Credenciais inválidas</string>
+
+    <!-- Validação -->
+    <string name="email_required">Email é obrigatório</string>
+    <string name="email_invalid">Email inválido</string>
+    <string name="password_required">Senha é obrigatória</string>
+    <string name="password_min_length">Senha deve ter pelo menos 3 caracteres</string>
 </resources>
